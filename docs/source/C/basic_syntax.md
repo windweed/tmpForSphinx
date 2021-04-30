@@ -1,3 +1,3 @@
-# BasicSyntax.md
+# BasicSyntax
 
 ddddddddddddddddddddddd

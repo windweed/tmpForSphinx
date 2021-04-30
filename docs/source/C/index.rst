@@ -4,8 +4,8 @@ C
 C, yyds
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   chello.md
-   basic_syntax.md
+   chello
+   basic_syntax
 
