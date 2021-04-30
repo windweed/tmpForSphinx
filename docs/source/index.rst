@@ -10,6 +10,7 @@ Welcome to testSphinx's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   PL/index
    abouta
 
 
