@@ -9,7 +9,6 @@ Welcome to testSphinx's documentation!
 .. toctree::
    :maxdepth: 2
 
-   abouta.md
    C/index
    CPP/cpphello.md
 
