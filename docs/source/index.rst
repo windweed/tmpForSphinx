@@ -8,10 +8,9 @@ Welcome to testSphinx's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   PL/index
-   abouta
+   C/chello.md
+   CPP/cpphello.md
 
 
 Indices and tables
