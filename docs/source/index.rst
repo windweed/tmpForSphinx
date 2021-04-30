@@ -10,7 +10,7 @@ Welcome to testSphinx's documentation!
    :maxdepth: 2
 
    abouta.md
-   C/chello.md
+   C/index
    CPP/cpphello.md
 
 
