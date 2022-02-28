@@ -12,6 +12,7 @@ Welcome
    C/index
    CPP/index
    LeetCode/index
+   Erlang/index
 
 
 .. Indices and tables
