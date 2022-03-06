@@ -9,5 +9,6 @@ I love Joe Armstrong!
     a_Introduce
     b_WhatIsConcurrent
     c_BasicConcepts
+    d_Module_and_Function
 
 
