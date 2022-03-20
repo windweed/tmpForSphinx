@@ -13,6 +13,7 @@ Welcome
    CPP/index
    LeetCode/index
    Erlang/index
+   Lua/index
 
 
 .. Indices and tables
